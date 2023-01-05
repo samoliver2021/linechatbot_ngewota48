@@ -1,0 +1,724 @@
+{
+	"type": "carousel",
+	"contents": [
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:2",
+			"aspectMode": "cover",
+			"url": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/11/07/2091862949.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Pajama Drive",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Tanggal",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "Selasa, 20 Desember 2022",
+					  "flex": 7,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Jam",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "19.00 - 21.00",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 7
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Lokasi",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "JKT 48 Teather ",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 7
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Harga ",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "30 k (Online), 200 k (OFC)",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 7
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "separator",
+				 "margin": "lg"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Member",
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					}
+				 ],
+				 "margin": "md"
+			  },
+			  {
+				 "type": "text",
+				 "text": "Gissele, Lia, Amanda, Callie, Ella, Indira,",
+				 "size": "sm"
+			  },
+			  {
+				 "type": "text",
+				 "text": "Indira, Lyn, Raisha",
+				 "size": "sm"
+			  }
+			],
+			"height": "300px"
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Beli tiketnya (Online)",
+					"uri": "https://www.tiket.com/to-do/jkt-48-pajama-drive-20-desember-2022"
+				 }
+			  },
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Beli tiketnya (OFC)",
+					"uri": "https://jkt48.com/about/ticketing?lang=id"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:2",
+			"aspectMode": "cover",
+			"url": "https://images.genius.com/1eef0d901cdbb6d9969ffddcbc9e932c.1000x563x1.png"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Tunas di balik Seragam",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Tanggal",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "Rabu, 21 Desember 2022",
+					  "flex": 7,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Jam",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "19.00 - 21.00",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 7
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Lokasi",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "JKT 48 Teather ",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 7
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Harga ",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "30 k (Online), 200 k (OFC)",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 7
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "separator",
+				 "margin": "lg"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Member",
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					}
+				 ],
+				 "margin": "md"
+			  },
+			  {
+				 "type": "text",
+				 "text": "Chrsity, Lia, Callie, Oniel, Feni,Fiony",
+				 "size": "sm"
+			  },
+			  {
+				 "type": "text",
+				 "text": "Sisca, Freya, Ella, Indira, Jesselyn, Lyn",
+				 "size": "sm"
+			  },
+			  {
+				 "type": "text",
+				 "text": "Jinan, Lulu, Muthe, Raisha",
+				 "size": "sm"
+			  }
+			],
+			"height": "300px"
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Beli tiketnya (Online)",
+					"uri": "https://m.tiket.com/to-do/jkt48-tunas-di-balik-seragam-21-desember?utm_page=toDoPriceTier"
+				 }
+			  },
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Beli tiketnya (OFC)",
+					"uri": "https://jkt48.com/about/ticketing?lang=id"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:2",
+			"aspectMode": "cover",
+			"url": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2021/03/29/687a4ef5-40fc-43c8-ba6e-907a805d9230-1617009546403-2af215e57173316aa551d2ffead3244b.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Gadis-gadis Remaja",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Tanggal",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "Kamis, 22 Desember 2022",
+					  "flex": 7,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Jam",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "19.00 - 21.00",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 7
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Lokasi",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "JKT 48 Teather ",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 7
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Harga ",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "30 k (Online), 200 k (OFC)",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 7
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "separator",
+				 "margin": "lg"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Member",
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					}
+				 ],
+				 "margin": "md"
+			  },
+			  {
+				 "type": "text",
+				 "text": "Ashel, Olla, Feni, Flora, Freya, Gita",
+				 "size": "sm"
+			  },
+			  {
+				 "type": "text",
+				 "text": "Eli, Indah, Jessi, Jesselyn,Kathrina, Marsha",
+				 "size": "sm"
+			  },
+			  {
+				 "type": "text",
+				 "text": "Muthe, Adel, Shani, Chika",
+				 "size": "sm"
+			  }
+			],
+			"height": "300px"
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Beli tiketnya (Online)",
+					"uri": "https://m.tiket.com/to-do/jkt48-gadis-gadis-remaja-22-desember-2022?utm_page=toDoPriceTier"
+				 }
+			  },
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Beli tiketnya (OFC)",
+					"uri": "https://jkt48.com/about/ticketing?lang=id"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:2",
+			"aspectMode": "cover",
+			"url": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit621414gsm/events/2022/03/09/8a740b03-7532-400a-946e-5f71f6d47b89-1646816709090-cd1c6c41bb496deab998f32b44d59676.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Banzai JKT 48",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Tanggal",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "Jumat, 23 Desember 2022",
+					  "flex": 7,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Jam",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "19.00 - 21.00",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 7
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Lokasi",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "JKT 48 Teather ",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 7
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Harga ",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "30 k (Online), 200 k (OFC)",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 7
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "separator",
+				 "margin": "lg"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Member",
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					}
+				 ],
+				 "margin": "md"
+			  },
+			  {
+				 "type": "text",
+				 "text": "Christy, Olla, Feni, Fiony, Flora, Sisca",
+				 "size": "sm"
+			  },
+			  {
+				 "type": "text",
+				 "text": "Freya, Gita, Jessi, Jinan, Marsha, Muthe",
+				 "size": "sm"
+			  },
+			  {
+				 "type": "text",
+				 "text": "Adel, Shani, Gracia, Chika",
+				 "size": "sm"
+			  }
+			],
+			"height": "300px"
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Beli tiketnya (Online)",
+					"uri": "https://www.tiket.com/to-do/banzai-jkt48-23-desember-2022"
+				 }
+			  },
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Beli tiketnya (OFC)",
+					"uri": "https://jkt48.com/about/ticketing?lang=id"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:2",
+			"aspectMode": "cover",
+			"url": "https://img.inews.co.id/media/600/files/networks/2022/12/14/81060_carnival-fest.jpeg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Jungleland Carnival Fest",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Tanggal",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "Rabu, 28 Desember 2022",
+					  "flex": 7,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Lokasi",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "Jungleland, Bogor",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 7
+					}
+				 ],
+				 "margin": "sm"
+			  }
+			],
+			"height": "300px"
+		 }
+	  }
+	]
+ }

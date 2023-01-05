@@ -1,0 +1,225 @@
+{
+	"type": "carousel",
+	"contents": [
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:2",
+			"aspectMode": "cover",
+			"url": "https://img.freepik.com/free-photo/orange-tickets_1101-3255.jpg?w=900&t=st=1672489685~exp=1672490285~hmac=28401201e5f783fb7eb47302ecf7eb9a13d70bbd235f46be479e51aab8e824f9"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Detail Tiket JKT48 11th Anniversary Concert: Flying High",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "md",
+				 "margin": "lg"
+			  },
+			  {
+				 "type": "text",
+				 "text": "11 Desember 2022",
+				 "margin": "lg",
+				 "size": "sm",
+				 "color": "#808080"
+			  },
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Read more...",
+					"uri": "https://jkt48.com/news/detail/id/1625?lang=id"
+				 },
+				 "style": "secondary",
+				 "color": "#FFC0CB",
+				 "margin": "xxl",
+				 "height": "md"
+			  }
+			],
+			"height": "250px"
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:2",
+			"aspectMode": "cover",
+			"url": "https://i.scdn.co/image/ab67616d0000b273775e2acc1079ae3235e6d173"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Pertunjukan Terakhir “Gadis-Gadis Remaja” ",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "md",
+				 "margin": "lg"
+			  },
+			  {
+				 "type": "text",
+				 "text": "13 Desember 2022",
+				 "margin": "lg",
+				 "size": "sm",
+				 "color": "#808080"
+			  },
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Read more...",
+					"uri": "https://jkt48.com/news/detail/id/1626?lang=id"
+				 },
+				 "style": "secondary",
+				 "color": "#FFC0CB",
+				 "margin": "xxl",
+				 "height": "md"
+			  }
+			],
+			"height": "230px"
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:2",
+			"aspectMode": "cover",
+			"url": "https://img.freepik.com/free-vector/business-stationery-professional-big-set_1017-30615.jpg?w=1060&t=st=1672490927~exp=1672491527~hmac=e7b77c2ca42d4ba3e61b34031342419979e1048cb4f9f9238a555ca7deb6eaa9"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Merchandise Spesial JKT48 11th Anniversary Concert: Flying High",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "md",
+				 "margin": "lg"
+			  },
+			  {
+				 "type": "text",
+				 "text": "14 Desember 2022",
+				 "margin": "lg",
+				 "size": "sm",
+				 "color": "#808080"
+			  },
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Read more...",
+					"uri": "https://jkt48.com/news/detail/id/1627?lang=id"
+				 },
+				 "style": "secondary",
+				 "color": "#FFC0CB",
+				 "margin": "xxl",
+				 "height": "md"
+			  }
+			],
+			"height": "230px"
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:2",
+			"aspectMode": "cover",
+			"url": "https://img.freepik.com/free-photo/orange-tickets_1101-3255.jpg?w=900&t=st=1672489685~exp=1672490285~hmac=28401201e5f783fb7eb47302ecf7eb9a13d70bbd235f46be479e51aab8e824f9"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Penjualan Tiket Festival di JKT48 11th Anniversary Concert: Flying High",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "md",
+				 "margin": "lg"
+			  },
+			  {
+				 "type": "text",
+				 "text": "16 Desember 2022",
+				 "margin": "lg",
+				 "size": "sm",
+				 "color": "#808080"
+			  },
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Read more...",
+					"uri": "https://jkt48.com/news/detail/id/1628?lang=id"
+				 },
+				 "style": "secondary",
+				 "color": "#FFC0CB",
+				 "margin": "xxl",
+				 "height": "md"
+			  }
+			],
+			"height": "230px"
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:2",
+			"aspectMode": "cover",
+			"url": "https://jkt48.com/upload/news/63a06145a21b5.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Pre-order Batch Kedua JKT48 Calendar 2023 “The Morning Call”",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "md",
+				 "margin": "lg"
+			  },
+			  {
+				 "type": "text",
+				 "text": "19 Desember 2022",
+				 "margin": "lg",
+				 "size": "sm",
+				 "color": "#808080"
+			  },
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Read more...",
+					"uri": "https://jkt48.com/news/detail/id/1629?lang=id"
+				 },
+				 "style": "secondary",
+				 "color": "#FFC0CB",
+				 "margin": "xxl",
+				 "height": "md"
+			  }
+			],
+			"height": "230px"
+		 }
+	  }
+	]
+ }

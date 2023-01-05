@@ -1,0 +1,333 @@
+{
+	"type": "carousel",
+	"contents": [
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:3",
+			"aspectMode": "cover",
+			"url": "https://jkt48.com/profile/adzana_shaliha.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Adzana Shalisha (Ashel)",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Generasi",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "9",
+					  "flex": 6,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Tanggal",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "8 Januari 2005",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"url": "https://jkt48.com/profile/marsha_lenathea.jpg",
+			"size": "full",
+			"aspectRatio": "3:3",
+			"aspectMode": "cover"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": " Marsha Lenathea (Marsha)",
+				 "margin": "xs",
+				 "size": "lg",
+				 "weight": "bold"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Generasi",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "9",
+					  "flex": 6,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Tanggal",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "9 Januari 2006",
+					  "flex": 6,
+					  "size": "sm",
+					  "color": "#666666"
+					}
+				 ],
+				 "margin": "sm"
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"url": "https://jkt48.com/profile/greesella_adhalia.jpg",
+			"size": "full",
+			"aspectRatio": "3:3",
+			"aspectMode": "cover"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Greesella Adhalia (Greesel)",
+				 "margin": "xs",
+				 "size": "lg",
+				 "weight": "bold"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Generasi",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "11",
+					  "flex": 6,
+					  "size": "sm",
+					  "color": "#666666"
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Tanggal",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "10 Januari 2006",
+					  "flex": 6,
+					  "size": "sm",
+					  "color": "#666666"
+					}
+				 ],
+				 "margin": "sm"
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"url": "https://jkt48.com/profile/feni_fitriyanti.jpg",
+			"size": "full",
+			"aspectRatio": "3:3",
+			"aspectMode": "cover"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Feni Fitriyanti (Feni)",
+				 "margin": "xs",
+				 "size": "lg",
+				 "weight": "bold"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Generasi",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "3",
+					  "flex": 6,
+					  "size": "sm",
+					  "color": "#666666"
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Tanggal",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "16 Januari 1999",
+					  "flex": 6,
+					  "size": "sm",
+					  "color": "#666666"
+					}
+				 ],
+				 "margin": "sm"
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"url": "https://jkt48.com/profile/aulia_asyira.jpg",
+			"size": "full",
+			"aspectRatio": "3:3",
+			"aspectMode": "cover"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": " Aulia Asyira (Aulia)",
+				 "margin": "xs",
+				 "size": "lg",
+				 "weight": "bold"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Generasi",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "11",
+					  "flex": 6,
+					  "size": "sm",
+					  "color": "#666666"
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Tanggal",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "19 Januari 2007",
+					  "flex": 6,
+					  "size": "sm",
+					  "color": "#666666"
+					}
+				 ],
+				 "margin": "sm"
+			  }
+			]
+		 }
+	  }
+	]
+ }

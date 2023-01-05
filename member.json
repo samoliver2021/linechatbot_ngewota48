@@ -1,0 +1,1235 @@
+{
+	"type": "carousel",
+	"contents": [
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:3",
+			"aspectMode": "cover",
+			"url": "https://jkt48.com/profile/callista_alifia.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": " Callista Alifia (Callie)",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Generasi",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "10",
+					  "flex": 6,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Status/Tim",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "Trainee JKT 48",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Ultah",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "8 Agustus 2005",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Show",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "47",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  }
+			]
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Read more",
+					"uri": "https://jkt48.com/member/detail/id/251?lang=id"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:3",
+			"aspectMode": "cover",
+			"url": "https://jkt48.com/profile/shania_gracia.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Shania Gracia (Gracia)",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Generasi",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "3",
+					  "flex": 6,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Status/Tim",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "Anggota JKT 48",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Ultah",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "31 Agustus 1999",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Show",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "660",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  }
+			]
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Read more",
+					"uri": "https://jkt48.com/member/detail/id/113?lang=id"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:3",
+			"aspectMode": "cover",
+			"url": "https://jkt48.com/profile/fiony_alveria.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Fiony Alveria Tantri (Fiony)",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Generasi",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "8",
+					  "flex": 6,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Status/Tim",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "Anggota JKT 48",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Ultah",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "4 Februari 2002",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Show",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "178",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  }
+			]
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Read more",
+					"uri": "https://jkt48.com/member/detail/id/223?lang=id"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:3",
+			"aspectMode": "cover",
+			"url": "https://jkt48.com/profile/dhea_angelia.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": " Dhea Angelia (Dey)",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Generasi",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "7",
+					  "flex": 6,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Status/Tim",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "Anggota JKT 48",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Ultah",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": " 18 Agustus 2001",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Show",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "166",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  }
+			]
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Read more",
+					"uri": "https://jkt48.com/member/detail/id/208?lang=id"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:3",
+			"aspectMode": "cover",
+			"url": "https://jkt48.com/profile/cynthia_yaputera.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": " Cynthia Yaputera (Cynthia)",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Generasi",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "11",
+					  "flex": 6,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Status/Tim",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "Trainee JKT 48",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Ultah",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": " 22 November 2003",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Show",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "0",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  }
+			]
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Read more",
+					"uri": "https://jkt48.com/member/detail/id/266?lang=id"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:3",
+			"aspectMode": "cover",
+			"url": "https://jkt48.com/profile/alia_giselle.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Alia Giselle (Giselle)",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Generasi",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "10",
+					  "flex": 6,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Status/Tim",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "Trainee JKT 48",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Ultah",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": " 20 Desember 2006",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Show",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "19",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  }
+			]
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Read more",
+					"uri": "https://jkt48.com/member/detail/id/248?lang=id"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:3",
+			"aspectMode": "cover",
+			"url": "https://jkt48.com/profile/mutiara_azzahra.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": " Mutiara Azzahra (Muthe)",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Generasi",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "7",
+					  "flex": 6,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Status/Tim",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "Anggota JKT 48",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Ultah",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": " 12 Juli 2004",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Show",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "254",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  }
+			]
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Read more",
+					"uri": "https://jkt48.com/member/detail/id/199?lang=id"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:3",
+			"aspectMode": "cover",
+			"url": "https://jkt48.com/profile/flora_shafiq.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": " Flora Shafiq (Flora)",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Generasi",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "8",
+					  "flex": 6,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Status/Tim",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "Anggota JKT 48",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Ultah",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": " 4 April 2005",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Show",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "152",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  }
+			]
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Read more",
+					"uri": "https://jkt48.com/member/detail/id/234?lang=id"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:3",
+			"aspectMode": "cover",
+			"url": "https://jkt48.com/profile/aurellia.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": " Aurellia (Lia)",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Generasi",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "10",
+					  "flex": 6,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Status/Tim",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "Trainee JKT 48",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Ultah",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": " 29 Oktober 2002",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Show",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "37",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  }
+			]
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Read more",
+					"uri": "https://jkt48.com/member/detail/id/250?lang=id"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:3",
+			"aspectMode": "cover",
+			"url": "https://jkt48.com/profile/angelina_christy.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Angelina Christy (Christy)",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Generasi",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "7",
+					  "flex": 6,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Status/Tim",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "Anggota JKT 48",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Ultah",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "5 Desember 2005",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Show",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "230",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 6
+					}
+				 ],
+				 "margin": "sm"
+			  }
+			]
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Read more",
+					"uri": "https://jkt48.com/member/detail/id/204?lang=id"
+				 }
+			  }
+			]
+		 }
+	  }
+	]
+ }

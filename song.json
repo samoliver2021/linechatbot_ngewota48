@@ -1,0 +1,709 @@
+{
+	"type": "carousel",
+	"contents": [
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:2",
+			"aspectMode": "cover",
+			"url": "https://i.ytimg.com/vi/eq0s1atl_K0/maxresdefault.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Flying High",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Tanggal Rilis",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "17 Juni 2022",
+					  "flex": 4,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Setlist",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "Singel JKT 48 ke-23",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 4
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "text",
+				 "text": "Syuting Flying High dilakukan di Jepang dan dibawakan oleh 9 member hasil dari senbatsu yaitu Chika, Christy, Gracia, Shani, Zee (Center), Feni, Jinan, Fiony dan Marsha",
+				 "margin": "xl",
+				 "size": "sm",
+				 "wrap": true
+			  }
+			]
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Listen here",
+					"uri": "https://www.youtube.com/watch?v=eq0s1atl_K0"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:2",
+			"aspectMode": "cover",
+			"url": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/11/07/2091862949.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Hisatsu Teleport",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Tanggal Rilis",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "17 Mei 2012",
+					  "flex": 4,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Setlist",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "Pajama Drive",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 4
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "text",
+				 "text": "Hisatsu Teleport atau dalam bahasa Indonesia Jurus Rahasia Teleport adalah salah satu lagu yang dibawakan oleh member pada setlist Pajama Drive",
+				 "margin": "xl",
+				 "size": "sm",
+				 "wrap": true
+			  }
+			]
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Listen here",
+					"uri": "https://www.youtube.com/watch?v=BXXI_MnaA0Y"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:2",
+			"aspectMode": "cover",
+			"url": "https://i1.sndcdn.com/artworks-VNz9OyqemgzgzCC4-mp519g-t500x500.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Jiwaru days",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Tanggal Rilis",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "18 Desember 2021.",
+					  "flex": 4,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Setlist",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "-",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 4
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "text",
+				 "text": "Jiwaru days adalah lagu spesial yang disembahkan untuk Gaby yang telah berada di JKT 48 selama 10 tahun dan menjadi member terakhir dari generasi awal (Gen 1)JKT 48",
+				 "margin": "xl",
+				 "size": "sm",
+				 "wrap": true
+			  }
+			]
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Listen here",
+					"uri": "https://www.youtube.com/watch?v=VQEJ239C2ZY"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:2",
+			"aspectMode": "cover",
+			"url": "https://i.ytimg.com/vi/Xu1wA7CfhQg/maxresdefault.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Rapsodi",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Tanggal Rilis",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "18 Desember 2021.",
+					  "flex": 4,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Setlist",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "Singel JKT 48 ke-21",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 4
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "text",
+				 "text": "Rapsodi adalah singel JKT 48 pertama yang dibawakan oleh 16 member senbatasu yaitu Eli, Christy, Melati, Celine, Gracia, Jinan, Diani, Vivi, Cindy, Nadila, Amel, Shani (Center), Feni, Aya, Aby dan Beby",
+				 "margin": "xl",
+				 "size": "sm",
+				 "wrap": true
+			  }
+			]
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Listen here",
+					"uri": "https://www.youtube.com/watch?v=Xu1wA7CfhQg"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:2",
+			"aspectMode": "cover",
+			"url": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit621414gsm/events/2022/03/09/8a740b03-7532-400a-946e-5f71f6d47b89-1646816709090-cd1c6c41bb496deab998f32b44d59676.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Seventeen",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Tanggal Rilis",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "12 Maret 2022",
+					  "flex": 4,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Setlist",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "Banzai ",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 4
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "text",
+				 "text": "Seventeen adalah salah satu lagu (unit song) yang dibawakan oleh member yang berusia 17 tahun pada setlist Banzai JKT 48",
+				 "margin": "xl",
+				 "size": "sm",
+				 "wrap": true
+			  }
+			]
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Listen here",
+					"uri": "https://www.youtube.com/watch?v=JvGpGRzJ38U"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:2",
+			"aspectMode": "cover",
+			"url": "https://www.klikkoran.com/wp-content/uploads/2022/06/1511-pesawat-kertas-750x443-1.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Pesawat kertas 365 hari",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Tanggal Rilis",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "-",
+					  "flex": 4,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Setlist",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "-",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 4
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "text",
+				 "text": "Makna dari lagu ini adalah setiap orang memiliki caranya tersendiri untuk mencapai cita-cita karena setiap usaha punya tantangan dan waktunya untuk terwujud.",
+				 "margin": "xl",
+				 "size": "sm",
+				 "wrap": true
+			  }
+			]
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Listen here",
+					"uri": "https://www.youtube.com/watch?v=GYZpknfi5YQ"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:2",
+			"aspectMode": "cover",
+			"url": "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/54YUFLJDNVCUNHXXOPNKUIJ55Y.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "Green flash",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Tanggal Rilis",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "17 Desember 2022",
+					  "flex": 4,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Setlist",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "-",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 4
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "text",
+				 "text": "Green flash adalah lagu terbaru yang dibawakan saat 11th Anniversary Concert JKT 48.  ",
+				 "margin": "xl",
+				 "size": "sm",
+				 "wrap": true
+			  }
+			]
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Listen here",
+					"uri": "https://www.youtube.com/watch?v=nEfzP7Y1dZc"
+				 }
+			  }
+			]
+		 }
+	  },
+	  {
+		 "type": "bubble",
+		 "hero": {
+			"type": "image",
+			"size": "full",
+			"aspectRatio": "3:2",
+			"aspectMode": "cover",
+			"url": "https://i.ytimg.com/vi/LgEfTUoiZpE/maxresdefault.jpg"
+		 },
+		 "body": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "text",
+				 "text": "First Rabbit",
+				 "wrap": true,
+				 "weight": "bold",
+				 "size": "lg",
+				 "margin": "xs"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Tanggal Rilis",
+					  "flex": 3,
+					  "color": "#aaaaaa",
+					  "size": "sm"
+					},
+					{
+					  "type": "text",
+					  "text": "-",
+					  "flex": 4,
+					  "color": "#666666",
+					  "size": "sm"
+					}
+				 ],
+				 "spacing": "sm",
+				 "margin": "md"
+			  },
+			  {
+				 "type": "box",
+				 "layout": "baseline",
+				 "contents": [
+					{
+					  "type": "text",
+					  "text": "Setlist",
+					  "flex": 3,
+					  "size": "sm",
+					  "color": "#aaaaaa"
+					},
+					{
+					  "type": "text",
+					  "text": "-",
+					  "color": "#666666",
+					  "size": "sm",
+					  "flex": 4
+					}
+				 ],
+				 "margin": "sm"
+			  },
+			  {
+				 "type": "text",
+				 "text": "First Rabbit adalah lagu yang membagikan keberanian dan membangkitkan rasa percaya diri bagi siapa saja yang mendengarkannya. Melalui lagu ini, kita diajarkan bahwa rintangan bukanlah hal yang perlu ditakuti.",
+				 "margin": "xl",
+				 "size": "sm",
+				 "wrap": true
+			  }
+			]
+		 },
+		 "footer": {
+			"type": "box",
+			"layout": "vertical",
+			"contents": [
+			  {
+				 "type": "button",
+				 "action": {
+					"type": "uri",
+					"label": "Listen here",
+					"uri": "https://www.youtube.com/watch?v=LgEfTUoiZpE"
+				 }
+			  }
+			]
+		 }
+	  }
+	]
+ }
